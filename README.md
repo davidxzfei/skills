@@ -53,6 +53,10 @@ The `document-skills/` subdirectory contains skills that Anthropic developed to 
 - **pptx** - Create, edit, and analyze PowerPoint presentations with support for layouts, templates, charts, and automated slide generation
 - **xlsx** - Create, edit, and analyze Excel spreadsheets with support for formulas, formatting, data analysis, and visualization
 
+**Getting Started:**
+- 📖 [Claude Code Deployment Guide](./document-skills/CLAUDE_CODE_DEPLOY.md) - Step-by-step instructions for installing document skills in Claude Code
+- 🚀 [10 Demo Examples](./document-skills/DEMO_EXAMPLES.md) - Detailed hands-on examples showcasing each document skill with complete workflows
+
 **Important Disclaimer:** These document skills are point-in-time snapshots and are not actively maintained or updated. Versions of these skills ship pre-included with Claude. They are primarily intended as reference examples to illustrate how Anthropic approaches developing more complex skills that work with binary file formats and document structures.
 
 # Try in Claude Code, Claude.ai, and the API
